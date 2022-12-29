@@ -12,7 +12,7 @@ content = "China’s Huawei overtook Samsung Electronics as the world’s bigges
 
 from transformers import T5Tokenizer, T5ForConditionalGeneration
 
-T5_PATH = ‘t5-large’ # T5 model name
+T5_PATH = 't5-large' # T5 model name
 
 # initialize the model architecture and weights
 
